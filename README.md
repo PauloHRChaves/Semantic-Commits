@@ -1,5 +1,5 @@
 <h1>Semantic-Commits</h1>
-**Credits for iuricode !**
+<strong>Credits for iuricode !</strong>
 
 # Padrões de commits 📜
 

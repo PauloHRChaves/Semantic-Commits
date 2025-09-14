@@ -1,5 +1,5 @@
-<h1>Semantic-Commits</h1>
-<strong>Credits for iuricode !</strong>
+<h1>Credits for:</h1>
+ <strong><a href = "https://github.com/iuricode">Iuri Silva</a></strong>
 
 # Padrões de commits 📜
 
@@ -453,15 +453,3 @@ Se necessário, abra o arquivo `.git/hooks/commit-msg` em um editor de texto e p
 - `pull request` - Mecanismo usado para submeter alterações propostas ao repositório original. Um pull request é uma solicitação para que os mantenedores do projeto revisem e potencialmente incorporem as alterações. O pull request passará por um processo de avaliação e pode ser aceito ou rejeitado.
 
 - `gist` - Ferramenta que permite o compartilhamento de trechos de código sem a necessidade de criar um repositório completo. Gists podem ser compartilhados publicamente ou de forma privada.
-
-# Contribuição ✨
-
-Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/padroes-de-commits/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/padroes-de-commits/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
-
-## Disponível para freelas - #OpenToWork 🚀
-
-Atualmente estou aberto para oportunidades como Desenvolvedor Frontend e UI/UX Designer. Se você precisa de alguém para transformar ideias em interfaces bonitas, responsivas e funcionais, podemos trabalhar juntos!
-
-📬 Entre em contato:
-📧 iuricold99@gmail.com
-💼 [Linkedin](https://www.linkedin.com/in/iuricode/)
